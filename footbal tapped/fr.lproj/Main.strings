@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "2018-RUSSIA"; ObjectID = "A5M-7J-77L"; */
+"A5M-7J-77L.text" = "2018-RUSSIA";
+
+/* Class = "UILabel"; text = "Calender"; ObjectID = "Ch4-Mt-u8g"; */
+"Ch4-Mt-u8g.text" = "Calendra";
+
+/* Class = "UILabel"; text = "COUNTDOWN TO 14TH JUNE 2018 "; ObjectID = "Flm-pe-Fzp"; */
+"Flm-pe-Fzp.text" = "COUNTDOWNa Ta 14TH JUN 2018 ";
+
+/* Class = "UILabel"; text = "FIFA WORLD CUP"; ObjectID = "KQZ-1w-vlD"; */
+"KQZ-1w-vlD.text" = "FFA WORLD CUP";
+
+/* Class = "UILabel"; text = "Loaded by SecondViewController"; ObjectID = "NDk-cv-Gan"; */
+"NDk-cv-Gan.text" = "Loaded by SecondViewController";
+
+/* Class = "UILabel"; text = "SECS"; ObjectID = "O09-0L-kdH"; */
+"O09-0L-kdH.text" = "SECS";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "SBZ-oL-ffo"; */
+"SBZ-oL-ffo.text" = "Settings";
+
+/* Class = "UILabel"; text = "Loaded by FifthViewController"; ObjectID = "UUX-Jz-vXV"; */
+"UUX-Jz-vXV.text" = "Loaded by FifthViewController";
+
+/* Class = "UITabBarItem"; title = "Live"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Live";
+
+/* Class = "UITabBarItem"; title = "Groups"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Groups";
+
+/* Class = "UILabel"; text = "MINS"; ObjectID = "fxH-dZ-Ybg"; */
+"fxH-dZ-Ybg.text" = "MINS";
+
+/* Class = "UILabel"; text = "Loaded by ThirdViewController"; ObjectID = "gXb-h3-nVv"; */
+"gXb-h3-nVv.text" = "Loaded by ThirdViewController";
+
+/* Class = "UILabel"; text = "Loaded by FourthViewController"; ObjectID = "lBy-Th-vnR"; */
+"lBy-Th-vnR.text" = "Loaded by FourthViewController";
+
+/* Class = "UITabBarItem"; title = "Teams"; ObjectID = "op0-R4-uS4"; */
+"op0-R4-uS4.title" = "Teams";
+
+/* Class = "UILabel"; text = "AT 6:00PM (EUROPE/MOSCOW TIME)"; ObjectID = "peN-7U-o3z"; */
+"peN-7U-o3z.text" = "AT 6:00PM (EUROPE/MOSCOW TIME)";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "pts-0u-rm5"; */
+"pts-0u-rm5.title" = "Settings";
+
+/* Class = "UILabel"; text = "Days"; ObjectID = "t31-sh-UWn"; */
+"t31-sh-UWn.text" = "Days";
+
+/* Class = "UILabel"; text = "HOUR"; ObjectID = "vN3-qb-8I8"; */
+"vN3-qb-8I8.text" = "HOUR";
+
+/* Class = "UITabBarItem"; title = "Calendars"; ObjectID = "vVa-Vq-PRR"; */
+"vVa-Vq-PRR.title" = "Calendars";
+
+/* Class = "UILabel"; text = "Groups"; ObjectID = "zEq-FU-wV5"; */
+"zEq-FU-wV5.text" = "Groups";
+
+/* Class = "UILabel"; text = "Teams"; ObjectID = "zwe-bp-DYS"; */
+"zwe-bp-DYS.text" = "Teams";
