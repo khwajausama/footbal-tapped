@@ -24,6 +24,7 @@ class FirstViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         startTimer()
         //currentTime()
+        print("test")
     demo.text = convertToUTC(dateToConvert: "14-06-2018 6:00 PM")
         print("Converted Date == \(convertToUTC(dateToConvert: "14-06-2018 6:00 PM"))")
     }
@@ -35,7 +36,7 @@ class FirstViewController: UIViewController {
         let somedate = Date()
         let timeInterval = somedate.timeIntervalSince1970
         var myInt = timeInterval
-        myInt = formatter.timeZone
+        //myInt = formatter.timeZone
         return formatter.string(from: convertedDate!)
         
     }
